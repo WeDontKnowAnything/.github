@@ -14,7 +14,6 @@
 ## Member
 | 박중헌 (PM) | 오승민 | 송영빈 | 문희선 |
 |:----------:|:----------:|:----------:|:----------:|
-|DB 설계<br>Streamlit 화면 구성|자동차 등록 현황 crawling|Streamlit 화면 구성|FAQ crawling|
 | [@qjrm1430](https://github.com/qjrm1430) | [@artemIntellectus](https://github.com/artemIntellectus) | [@GETSPRING8230](https://github.com/GETSPRING8230) | [@MoonHeesun](https://github.com/MoonHeesun) |
 
 ## Introduction
