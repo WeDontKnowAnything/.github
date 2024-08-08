@@ -12,7 +12,7 @@
 ### SKT AI Family Camp 3rd Team
 
 ## Member
-| 박중헌 (PM) | 오승민 | 송영빈 | 문희선 |
+| 박중헌 (PM) | 오승민 (PE) | 송영빈 (PE) | 문희선 (PE) |
 |:----------:|:----------:|:----------:|:----------:|
 | [@qjrm1430](https://github.com/qjrm1430) | [@artemIntellectus](https://github.com/artemIntellectus) | [@GETSPRING8230](https://github.com/GETSPRING8230) | [@MoonHeesun](https://github.com/MoonHeesun) |
 
