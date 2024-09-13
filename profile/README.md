@@ -9,7 +9,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-### SKT AI Family Camp 3rd Team
+### SKT AI Family Camp 3rd period Team
 
 ## Member
 | 박중헌 (PM) | 오승민 (PE) | 송영빈 (PE) | 문희선 (PE) |
@@ -17,4 +17,5 @@
 | [@qjrm1430](https://github.com/qjrm1430) | [@artemIntellectus](https://github.com/artemIntellectus) | [@GETSPRING8230](https://github.com/GETSPRING8230) | [@MoonHeesun](https://github.com/MoonHeesun) |
 
 ## Introduction
-구직자가 신뢰성 있는 기업 평가 정보를 제공받을 수 있는 구인구직 사이트를 구축하고 있습니다.
+구직자가 신뢰성 있는 기업 평가 정보를 제공받을 수 있는 구인구직 사이트를 제공합니다.
+2024.08 ~ 2024.10
