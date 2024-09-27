@@ -21,9 +21,9 @@
 #### Team Leader : 박중헌
 
 #### AWS Project
-| 박중헌 (PM) | 이준경 (PE) | 김원철 (PE) | 이주원 (PE) |
-|:----------:|:----------:|:----------:|:----------:|
-| [@qjrm1430](https://github.com/qjrm1430) | [@zelope](https://github.com/zelope) | [@min3009](https://github.com/min3009) | [@Leejoowon123](https://github.com/Leejoowon123) |
+| 박중헌 (PM) | 이준경 (PE) | 김원철 (PE) | 이주원 (PE) | 박종명 (PE) |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| [@qjrm1430](https://github.com/qjrm1430) | [@zelope](https://github.com/zelope) | [@min3009](https://github.com/min3009) | [@Leejoowon123](https://github.com/Leejoowon123) | [@devjm99](https://github.com/devjm99) |
 
 #### Frontend Project
 | 김원철 (PM) | 박용주 (PE) |
