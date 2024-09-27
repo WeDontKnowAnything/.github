@@ -13,17 +13,12 @@
 ## 1기 Member
 | 박중헌 (PM) | 오승민 (PE) | 송영빈 (PE) | 문희선 (PE) |
 |:----------:|:----------:|:----------:|:----------:|
-| 프로젝트 총괄/기획<br>팀 관리<br>깃 관리<br>AWS 아키텍처 설계 및 총괄<br>데이터 전처리/분석<br>프론트엔드 개발 | 데이터 전처리/분석<br>백엔드 개발<br>AWS CI/CD 구축 | 화면 설계<br>데이터 수집 | 데이터베이스/ERD 설계<br>데이터 전처리/분석<br>백엔드 개발<br>AWS RDS/S3 관리 |
+| 프로젝트 총괄/기획<br>팀 관리<br>깃 관리<br>AWS 아키텍처 설계 및 총괄<br>데이터 전처리/분석<br>프론트엔드 개발 | 데이터 전처리/분석<br>백엔드 개발<br>Code Pipeline 구축 | 화면 설계<br>데이터 수집 | 데이터베이스/ERD 설계<br>데이터 전처리/분석<br>백엔드 개발<br>AWS Data 관리 |
 | [@qjrm1430](https://github.com/qjrm1430) | [@artemIntellectus](https://github.com/artemIntellectus) | [@GETSPRING8230](https://github.com/GETSPRING8230) | [@MoonHeesun](https://github.com/MoonHeesun) |
 
 ## 2기 Member
 
 #### Team Leader : 박중헌
-
-#### AWS Project
-| 박중헌 (PM) | 이준경 (PE) | 김원철 (PE) | 이주원 (PE) | 박종명 (PE) |
-|:----------:|:----------:|:----------:|:----------:|:----------:|
-| [@qjrm1430](https://github.com/qjrm1430) | [@zelope](https://github.com/zelope) | [@min3009](https://github.com/min3009) | [@Leejoowon123](https://github.com/Leejoowon123) | [@devjm99](https://github.com/devjm99) |
 
 #### Frontend Project
 | 김원철 (PM) | 박용주 (PE) |
