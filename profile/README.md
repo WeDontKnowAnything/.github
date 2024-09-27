@@ -40,9 +40,9 @@
 
 ## Skills
 
-- 사용 언어 : Python, Javascript, Java
-- 프레임워크 : Vue.js, Spring Boot, Apache Spark
-- 데이터베이스 : PostgreSQL
+- Language : Python, Javascript, Java
+- Framework : Vue.js, Spring Boot, Apache Spark
+- Database : PostgreSQL
 - AWS : Relationship Database Service, S3, CloudFront, Route53, Elastic Container Registry, Elastic Container Service, Code Pipeline, Elastic Load Balancing, Certificate Manager, 추가 예정(Lambda, EventBridge)
 - ETC Devops :  Docker, Swagger, Git/Github
 
