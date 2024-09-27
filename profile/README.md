@@ -18,12 +18,12 @@
 
 ## 2기 Member
 
-#### Team Leader : 박중헌
+#### Team Leader : 박중헌 
 
 #### Frontend Project
 | 김원철 (PM) | 박용주 (PE) |
 |:----------:|:----------:|
-| [@qjrm1430](https://github.com/qjrm1430) | [@yongjoo0329](https://github.com/yongjoo0329) | 
+| [@qjrm1430](https://github.com/min3009) | [@yongjoo0329](https://github.com/yongjoo0329) | 
 
 #### Backend Project
 | 김병수 (PM) | 이주원 (PE) |
