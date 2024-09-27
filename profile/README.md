@@ -18,12 +18,12 @@
 
 ## 2기 Member
 
-#### Team Leader : 박중헌 
+#### Team Leader : 박중헌
 
 #### Frontend Project
 | 김원철 (PM) | 박용주 (PE) |
 |:----------:|:----------:|
-| [@qjrm1430](https://github.com/min3009) | [@yongjoo0329](https://github.com/yongjoo0329) | 
+| [@qjrm1430](https://github.com/qjrm1430) | [@yongjoo0329](https://github.com/yongjoo0329) | 
 
 #### Backend Project
 | 김병수 (PM) | 이주원 (PE) |
@@ -31,16 +31,23 @@
 | [@BS-KIM-97](https://github.com/BS-KIM-97) | [@Leejoowon123](https://github.com/Leejoowon123) | 
 
 #### Data Project
-| 박중헌 (PM) | 이준경 (PMO) | 박종명 (PE) |
+| 박중헌 (PM) | 이준경 (PE) | 박종명 (PE) |
 |:----------:|:----------:|:----------:|
 | [@qjrm1430](https://github.com/qjrm1430) | [@zelope](https://github.com/zelope) | [@devjm99](https://github.com/devjm99) |
 
 ## Introduction
 구직자가 신뢰성 있는 기업 평가 정보를 제공받을 수 있는 구인구직 사이트를 제공합니다.
 
+## Skills
+
+- 사용 언어 : Python, Javascript, Java
+- 프레임워크 : Vue.js, Spring Boot, Apache Spark
+- 데이터베이스 : PostgreSQL
+- AWS : Relationship Database Service, S3, CloudFront, Route53, Elastic Container Registry, Elastic Container Service, Code Pipeline, Elastic Load Balancing, Certificate Manager, 추가 예정(Lambda, EventBridge)
+- ETC Devops :  Docker, Swagger, Git/Github
+
 ## Architecture
 ![image](https://github.com/user-attachments/assets/0320d542-b245-4d1f-8632-07bc11fedbbd)
-
 
 ## 개발 기간
 1차 Agile Team : 2024.08 ~ 2024.09
