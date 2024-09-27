@@ -38,6 +38,10 @@
 ## Introduction
 구직자가 신뢰성 있는 기업 평가 정보를 제공받을 수 있는 구인구직 사이트를 제공합니다.
 
+## Architecture
+![image](https://github.com/user-attachments/assets/0320d542-b245-4d1f-8632-07bc11fedbbd)
+
+
 ## 개발 기간
 1차 Agile Team : 2024.08 ~ 2024.09
 
