@@ -19,7 +19,7 @@ Site : https://jobadream.com/
 
 ## 2기 Member
 
-#### Team Leader : 박중헌
+### Team Leader : 박중헌
 
 #### Frontend Project
 | 김원철 (PM) | 박용주 (PE) |
