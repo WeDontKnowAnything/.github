@@ -19,20 +19,20 @@ Site : https://jobadream.com/
 
 ## 2기 Member
 
-### PL : 박중헌
+### PM : 박중헌
 
 #### Frontend Project
-| 김원철 (PM) | 박용주 (PE) |
+| 김원철 (PL) | 박용주 (PE) |
 |:----------:|:----------:|
 | [@min3009](https://github.com/min3009) | [@yongjoo0329](https://github.com/yongjoo0329) |
 
 #### Backend Project
-| 김병수 (PM) | 이주원 (PE) |
+| 김병수 (PL) | 이주원 (PE) |
 |:----------:|:----------:|
 | [@BS-KIM-97](https://github.com/BS-KIM-97) | [@Leejoowon123](https://github.com/Leejoowon123) | 
 
 #### Data Project
-| 박중헌 (PM) | 이준경 (PE) | 박종명 (PE) |
+| 박중헌 (PL) | 이준경 (PE) | 박종명 (PE) |
 |:----------:|:----------:|:----------:|
 | [@qjrm1430](https://github.com/qjrm1430) | [@zelope](https://github.com/zelope) | [@devjm99](https://github.com/devjm99) |
 
