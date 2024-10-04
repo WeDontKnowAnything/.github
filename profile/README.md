@@ -47,7 +47,22 @@
 - ETC Devops :  Docker, Swagger, Git/Github
 
 ## Architecture
+
+### 1차 Agile
 ![image](https://github.com/user-attachments/assets/0320d542-b245-4d1f-8632-07bc11fedbbd)
+
+### 2차 Agile
+
+#### Main
+![jobadream](https://github.com/user-attachments/assets/0216795e-3901-4c68-a9d2-4c94d6d1493a)
+
+
+#### Data
+![image](https://github.com/user-attachments/assets/a649f880-de4b-48ce-bf8f-8818acab7e49)
+
+#### Backend
+![KakaoTalk_20241004_155208644](https://github.com/user-attachments/assets/b9ec3b10-34c5-4cbf-873e-9fc3fcc70e96)
+
 
 ## 개발 기간
 1차 Agile Team : 2024.08 ~ 2024.09
