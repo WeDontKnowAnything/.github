@@ -83,8 +83,7 @@ Site : https://jobadream.com/
 ### 2차 Agile
 
 #### Main
-![jobadream](https://github.com/user-attachments/assets/0216795e-3901-4c68-a9d2-4c94d6d1493a)
-
+![image](https://github.com/user-attachments/assets/0f3c5a75-163c-45b1-9745-b7e0f18866ab)
 
 #### Data
 ![image](https://github.com/user-attachments/assets/a649f880-de4b-48ce-bf8f-8818acab7e49)
