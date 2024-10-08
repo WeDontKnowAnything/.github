@@ -32,9 +32,9 @@ Site : https://jobadream.com/
 | [@BS-KIM-97](https://github.com/BS-KIM-97) | [@Leejoowon123](https://github.com/Leejoowon123) | 
 
 #### Data Project
-| 박중헌 (PL) | 이준경 (PE) | 박종명 (PE) |
-|:----------:|:----------:|:----------:|
-| [@qjrm1430](https://github.com/qjrm1430) | [@zelope](https://github.com/zelope) | [@devjm99](https://github.com/devjm99) |
+| 박중헌 (PL) | 이준경 (PE) | 박종명 (PE) | 이준석 (PE) |
+|:----------:|:----------:|:----------:|:----------:|
+| [@qjrm1430](https://github.com/qjrm1430) | [@zelope](https://github.com/zelope) | [@devjm99](https://github.com/devjm99) | [@5-lee](https://github.com/5-lee) | 
 
 ## Introduction
 구직자가 신뢰성 있는 기업 평가 정보를 제공받을 수 있는 구인구직 사이트를 제공합니다.
