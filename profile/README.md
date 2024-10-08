@@ -55,19 +55,21 @@ Site : https://jobadream.com/
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### AWS
-![RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CloudFront](https://img.shields.io/badge/AWS%20CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Route 53](https://img.shields.io/badge/AWS%20Route%2053-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![ECR](https://img.shields.io/badge/AWS%20ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![ECS](https://img.shields.io/badge/AWS%20ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-![ELB](https://img.shields.io/badge/AWS%20ELB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Certificate Manager](https://img.shields.io/badge/AWS%20Certificate%20Manager-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![EventBridge](https://img.shields.io/badge/AWS%20EventBridge-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route%2053-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white)
+![CodePipeline](https://img.shields.io/badge/CodePipeline-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![ELB](https://img.shields.io/badge/ELB-8C4FFF?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white)
+![Certificate Manager](https://img.shields.io/badge/Certificate%20Manager-FF8282?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![ECR](https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Glue](https://img.shields.io/badge/Glue-452170?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-#### DevOps & Tools
+#### ETC DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
